@@ -1,0 +1,103 @@
+body {
+    font-family: sans-serif;
+    background-color: white;
+    color: black;
+    margin: 0px;
+    width: 100%
+}
+
+header {
+    background-color: rgb(16, 28, 139);
+    align-items: center;
+    border: solid black;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+
+}
+
+.nav-link {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    background-color: rgb(16, 28, 139);
+    text-align: center;
+}    tex
+
+h1{
+align-items: center;
+color: black
+}
+
+p {
+    font-size: 20px;
+    text-align: left;
+}
+
+.info {
+color: rgb(3, 3, 68)
+}
+
+
+.article-but {
+   color: darkblue;
+   text-decoration: none;
+   padding: 270px 50px 5px;
+}
+
+footer {
+    background-color: rgb(16, 28, 139);
+    border: solid black;
+    padding: 20px;
+}
+
+footer p {
+    text-align: center;
+    color:white;
+}
+.games {
+    display: flex;
+    justify-content: center;
+    }
+    .ps {
+      width: 650px;
+    }
+    .head {
+        display: flex;
+        justify-content: space-around;
+        background-color: rgb(1, 1, 59);
+        padding: 50px;
+         }
+    
+     {
+      display: flex;
+     justify-content: space-around;   
+    }
+    .perevagi{
+    color:rgb(15, 15, 92)e;
+    }
+    section {
+        max-width: 1100px;
+    }
+    .head2{
+        width: 500px;
+        height: 200px;
+    }
+    .smile {
+        display: flex;
+        width:200px;
+    }
+    .zamov {
+      text-decoration: none;
+      background-color: red;
+      color: white;
+      padding:20px 40px;
+      font-size: 20px;
+      border-radius: 5px;
+      text-align: center;
+    }
+    .zamov2{
+        margin: 30px;
+    }

@@ -1,0 +1,87 @@
+body {
+    font-family: sans-serif;
+    background-color: white;
+    color: black;
+    margin: 0px;
+}
+
+header {
+    background-color: rgb(16, 28, 139);
+    align-items: center;
+    border: solid black;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+
+}
+
+.nav-link {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    background-color: rgb(16, 28, 139);
+    
+}    tex
+
+h1 {
+ text-align: center;
+}
+
+p {
+    font-size: 20px;
+}
+
+
+article {
+    border: solid black;
+}
+
+.article-but {
+   color: darkblue;
+   text-decoration: none;
+   padding: 270px 50px 5px;
+}
+
+footer {
+    background-color: rgb(16, 28, 139);
+    border: solid black;
+}
+
+footer p {
+    text-align: center;
+    color:white;
+}
+.games {
+    display: flex;
+    justify-content: center;
+    }
+  main img{
+    width: 300px;
+    }
+    .ps {
+      width: 650px;
+    }
+    .fifa {
+        display: flex;
+        justify-content: space-around;
+    }
+    .opis {
+        background-color: aliceblue;
+    }
+    .gow {
+        display: flex;
+        justify-content: space-around;  
+    }
+    .spider {
+     display: flex;
+     justify-content: space-around;
+    }
+    .stray {
+      display: flex;
+     justify-content: space-around;   
+    }
+     {
+        background-color: white;
+    }

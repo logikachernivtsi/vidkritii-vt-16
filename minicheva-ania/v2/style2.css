@@ -1,0 +1,97 @@
+body {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    margin: 0;
+    font-size: 20px;
+}
+
+nav{
+    display: flex;
+    justify-content: space-evenly;
+    align-items:center;
+}
+
+nav a{
+    text-decoration: none;
+    background-color: grey;
+    color:white;
+    padding: 10px;
+    border-radius: 15px;
+}
+header {
+    background-image:url("https://learn.logikaschool.com/uploads/student/2162124/67d98a554cfa0.jpg");
+    background-size:cover ;
+    height: 500px;
+}
+
+.text{
+    width: 95%;
+    margin:0 auto;
+    
+}
+.text p {
+    padding: 30px;
+    border-radius: 20px;
+    text-align: left;
+}
+
+
+p {
+    font-size: 20px;
+}
+
+main{
+    background-image:url("https://learn.logikaschool.com/uploads/student/2162124/67d98abbb47af.jpg");
+    background-size: cover;
+    width: 100%;
+    padding: 30px;
+}
+
+
+h1{
+    color: black;
+}
+
+h3{
+    color:black;
+    margin-left:80px;
+}
+
+p{
+    background-color: lightblue;
+}
+
+.help{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.help article{
+    width: 200px;
+    height: 200px;
+    background-color: white;
+    border-radius: 20px;
+}
+
+.ava{
+    margin-left:80px;
+}
+
+header{
+    background-color: cornflowerblue;
+}
+
+h6{
+    color: black;
+    margin-left:80px ;
+}
+
+p{
+    color:black;
+}
+
+footer{
+    background-color: grey;
+    padding: 10px;
+}
